@@ -1,1 +1,1 @@
-#Estudos Java
+#Repositório exclusivo para a Linguagem Java.
